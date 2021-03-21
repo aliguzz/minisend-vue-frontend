@@ -1,14 +1,12 @@
-# vapp
+# MiniSend
 
-VAPP vuejs / cordova App
+MiniSend vuejs / cordova App
 
-The app section is built on vuejs, and hooks in to the VAPP laravel backend for data
-Using the vue and cordova frameworks allows mobile, desktop and web-based builds form a single codebase.
-Currently only mobile is used (android and ios) - though for testing the web-based build is useful
+The app section is built on vuejs, and it sends API calls to the backend built with Laravel and it provides us the full detail about sending, searching, and listing emails.
 
 ## Project setup
 ```
-git clone https://gitlab.com/adeoteam/vapp.git
+git clone https://github.com/aliguzz/minisend-vue-frontend.git
 ```
 
 ### Install Node / npm (Mac)
