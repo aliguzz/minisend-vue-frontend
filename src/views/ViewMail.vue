@@ -71,7 +71,7 @@
               </tr>
               <tr>
                 <td scope="row">HTML Content</td>                
-                <td scope="row" >{{ this.items.htmlContent }}</td>                                
+                <td scope="row" v-html="this.items.htmlContent"></td>                                
               </tr>
               <tr>
                 <td scope="row">Status</td>                
